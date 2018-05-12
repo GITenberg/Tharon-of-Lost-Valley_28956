@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '1750'
     url: http://www.gutenberg.org/2009/agents/1750
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28956#Tharon-of-Lost-Valley
 gutenberg_issued: '2009-05-24'
 gutenberg_type: Text
 identifiers:
